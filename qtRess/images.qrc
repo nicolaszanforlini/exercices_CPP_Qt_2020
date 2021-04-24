@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file>qt_quitter.jpeg</file>
+    </qresource>
+</RCC>
